@@ -9,7 +9,7 @@ const CONFIG = {
     desc: 'Mày coi t là gì?? ',
     btnYes: 'Gì ai biết chắc bồ =)))',
     btnNo: 'Không, pet của t',
-    question:'=)) t biết ngay m bồ t mà :3',
+    question:'=)) tao biết ngay m bồ tao mà :3',
     btnReply: 'Hehe',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Hehe =)) 🥰 thưng nhiều nhiều 😘😘',
