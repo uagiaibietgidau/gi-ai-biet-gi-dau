@@ -12,8 +12,8 @@ const CONFIG = {
     question:'=)) Ủa rồi chọn cái này thế',
     btnReply: 'Gì ai biết chắc bồ =)))',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    mess: 'Hehe =)) 🥰 thưng nhiều nhiều 😘😘',
+    messDesc: '=)) Yeuuuuuuuuuuu.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100024334722679'
 }
